@@ -1,4 +1,4 @@
-# instagram__photo_download
+# instagram photo download
 Python script for downloading photos from a public account.
 
 Instagram downloader:
